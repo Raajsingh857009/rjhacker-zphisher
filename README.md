@@ -1,7 +1,6 @@
 <!-- Zphisher -->
-
 <p align="center">
-  <img src=".github/misc/logo.png">
+  <img src="https://raw.githubusercontent.com/Raajsingh857009/rjhacker-zphisher/5489664b2bf486a6420c1452a6ce4b8ae62a4cc3/Raaj%20Hacker%20in%20Digital%20Shadow.png">
 </p>
 
 <p align="center">
@@ -187,3 +186,4 @@ $ zphisher
 <table>
 
 <!-- // -->
+
